@@ -1,5 +1,5 @@
 <div align="center">
-    <img width="380px" alt="Artificial digital brain" src="https://user-images.githubusercontent.com/26207957/214230893-af12bc0d-81e6-4f57-b04b-f11f05d9199f.png" />
+    <img width="380px" alt="Artificial digital brain" src="https://raw.githubusercontent.com/mikeheddes/fundamental-ai-jounal-club/main/digital-artificial-brain.png" />
 </div>
 
 # Fundamental Artificial Intelligence Journal Club 🤖📖
