@@ -8,7 +8,7 @@ This is the home page for the Journal Club on Fundamental Machine Learning resea
 
 ## Location and time
 
-We meet every week on **Wednesday at 1 PM** in **DBH 30??** for **1 hour**.<br/>
+We meet every week on **Wednesday at 1 PM** in **DBH 3099** for **1 hour**.<br/>
 Every UC Irvine student is welcome to join, no invitation needed.
 
 ## Topics
