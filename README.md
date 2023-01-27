@@ -1,3 +1,7 @@
+<p align="center">
+    <a href="https://github.com/mikeheddes/fml-jounal-club/discussions/2"><img alt="Paper discussion icon" src="https://img.shields.io/badge/Paper-discussion-orange?style=flat" /></a>
+</p>
+
 <div align="center">
     <img width="380px" alt="Artificial digital brain" src="https://raw.githubusercontent.com/mikeheddes/fundamental-ai-jounal-club/main/digital-artificial-brain.png" />
 </div>
@@ -26,3 +30,7 @@ We focus on fundamental research in order to be interesting for a diverse set of
 ## Paper selection process
 
 If you know an interesting and relevant paper you can suggest it in [our discussion](https://github.com/mikeheddes/fml-jounal-club/discussions/2). This is also where you can vote on suggested papers so that we get an idea of which papers are popular.
+
+# Schedule
+
+### Wednesday February 8: TBD
