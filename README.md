@@ -33,4 +33,6 @@ If you know an interesting and relevant paper you can suggest it in [our discuss
 
 # Schedule
 
-### Wednesday February 8: TBD
+### Wednesday February 8: [On the Binding Problem in Artificial Neural Networks](https://arxiv.org/abs/2012.05208)
+
+### Wednesday February 15: TBD
