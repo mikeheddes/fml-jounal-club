@@ -12,7 +12,7 @@ This is the home page for the Journal Club on Fundamental Machine Learning resea
 
 ## Location and time
 
-We meet every week on **Wednesday at 1 PM** in **DBH 3099** for **1 hour**.<br/>
+We meet every week on **Wednesday at 1 PM** in **DBH 3098** for **1 hour**.<br/>
 Every UC Irvine student is welcome to join, no invitation needed.
 
 ## Topics
@@ -35,4 +35,6 @@ If you know an interesting and relevant paper you can suggest it in [our discuss
 
 ### Wednesday February 8: [On the Binding Problem in Artificial Neural Networks](https://arxiv.org/abs/2012.05208)
 
-### Wednesday February 15: TBD
+### Wednesday February 15: [Resonator Networks, 1: An Efficient Solution for Factoring High-Dimensional, Distributed Representations of Data Structures](https://ieeexplore.ieee.org/abstract/document/9272714)
+
+### Wednesday February 22: TBD
