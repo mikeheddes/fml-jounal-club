@@ -35,6 +35,6 @@ If you know an interesting and relevant paper you can suggest it in [our discuss
 
 ### Wednesday February 8: [On the Binding Problem in Artificial Neural Networks](https://arxiv.org/abs/2012.05208)
 
-### Wednesday February 15: [Resonator Networks, 1: An Efficient Solution for Factoring High-Dimensional, Distributed Representations of Data Structures](https://ieeexplore.ieee.org/abstract/document/9272714)
+### Wednesday February 15: [Resonator Networks, 1: An Efficient Solution for Factoring High-Dimensional, Distributed Representations of Data Structures](https://par.nsf.gov/servlets/purl/10294577)
 
 ### Wednesday February 22: TBD
