@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://github.com/mikeheddes/fml-jounal-club/discussions/2"><img alt="Paper discussion icon" src="https://img.shields.io/badge/Paper-discussion-orange?style=flat" /></a>
-</p>
-
 <div align="center">
     <img width="380px" alt="Artificial digital brain" src="https://raw.githubusercontent.com/mikeheddes/fundamental-ai-jounal-club/main/digital-artificial-brain.png" />
 </div>
@@ -24,12 +20,9 @@ We focus on fundamental research in order to be interesting for a diverse set of
 - Learning techniques
 - Neural Network architecteurs
 - Catastrophic forgetting
+- Meta Learning
 - Data efficiency
 - Challenges in Machine Learning
-
-## Paper selection process
-
-If you know an interesting and relevant paper you can suggest it in [our discussion](https://github.com/mikeheddes/fml-jounal-club/discussions/2). This is also where you can vote on suggested papers so that we get an idea of which papers are popular.
 
 # Schedule
 
@@ -37,4 +30,6 @@ If you know an interesting and relevant paper you can suggest it in [our discuss
 
 ### Wednesday February 15: [Resonator Networks, 1: An Efficient Solution for Factoring High-Dimensional, Distributed Representations of Data Structures](https://par.nsf.gov/servlets/purl/10294577)
 
-### Wednesday February 22: TBD
+### Wednesday February 22: [Learning Physical Graph Representations from Visual Scenes](https://proceedings.neurips.cc/paper/2020/hash/4324e8d0d37b110ee1a4f1633ac52df5-Abstract.html)
+
+### Wednesday March 1: TBD
