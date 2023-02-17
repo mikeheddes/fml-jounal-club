@@ -20,7 +20,7 @@ We focus on fundamental research in order to be interesting for a diverse set of
 - Learning techniques
 - Neural Network architecteurs
 - Catastrophic forgetting
-- Meta Learning
+- Meta-Learning
 - Data efficiency
 - Challenges in Machine Learning
 
