@@ -10,7 +10,7 @@ If you are interested in joining, send an email to [mheddes@uci.edu](mailto:mhed
 
 ## Location and time
 
-We meet every week on **Wednesday at 1 PM** in **DBH 3098** for **1 hour**.<br/>
+We meet every week on **Wednesday at 1 PM** in **DBH 4013** for **1 hour**.<br/>
 Every UC Irvine student is welcome to join, no invitation needed.
 
 ## Topics
@@ -39,4 +39,6 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ### Wednesday March 8: <br/>[Dense Associative Memory for Pattern Recognition](https://papers.nips.cc/paper/2016/hash/eaae339c4d89fc102edd9dbdb6a28915-Abstract.html)
 
-### Wednesday March 15: TBD
+### Wednesday March 15: <br/>[How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)
+
+### Wednesday March 22: TBD
