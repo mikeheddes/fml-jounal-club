@@ -29,6 +29,8 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 # Schedule
 
+## Winter 2023
+
 ### Wednesday February 8: <br/>[On the Binding Problem in Artificial Neural Networks](https://arxiv.org/abs/2012.05208)
 
 ### Wednesday February 15: <br/>[Resonator Networks, 1: An Efficient Solution for Factoring High-Dimensional, Distributed Representations of Data Structures](https://par.nsf.gov/servlets/purl/10294577)
@@ -41,4 +43,8 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ### Wednesday March 15: <br/>[How to represent part-whole hierarchies in a neural network](https://arxiv.org/abs/2102.12627)
 
-### Wednesday March 22: TBD
+### Wednesday March 22: <br/>[The neural binding problem(s)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538094/)
+
+## Spring 2023
+
+### Wednesday April 5: TBD
