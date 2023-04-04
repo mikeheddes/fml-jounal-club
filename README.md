@@ -47,4 +47,6 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ## Spring 2023
 
-### Wednesday April 5: TBD
+### Wednesday April 5: <br/>[Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention](https://openreview.net/forum?id=-yiZR4_Xhh)
+
+### Wednesday April 12: TBD
