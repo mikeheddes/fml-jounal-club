@@ -49,4 +49,6 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ### Wednesday April 5: <br/>[Dance of SNN and ANN: Solving binding problem by combining spike timing and reconstructive attention](https://openreview.net/forum?id=-yiZR4_Xhh)
 
-### Wednesday April 12: TBD
+### Wednesday April 12: <br/>[Efficient Transformers: A Survey](https://dl.acm.org/doi/full/10.1145/3530811)
+
+### Wednesday April 19: TBD
