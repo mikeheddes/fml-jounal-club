@@ -51,4 +51,8 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ### Wednesday April 12: <br/>[Efficient Transformers: A Survey](https://dl.acm.org/doi/full/10.1145/3530811)
 
-### Wednesday April 19: TBD
+### Wednesday April 19: Open discussion
+
+### Wednesday April 26: <br/>[Sparse Distributed Memory is a Continual Learner ](https://openreview.net/forum?id=JknGeelZJpHP)
+
+### Wednesday March 3: <br/>[The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation](https://www.sciencedirect.com/science/article/pii/S009286742031388X?via%3Dihub)
