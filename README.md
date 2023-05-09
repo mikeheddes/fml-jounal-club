@@ -55,4 +55,6 @@ We focus on fundamental research in order to be interesting for a diverse set of
 
 ### Wednesday April 26: <br/>[Sparse Distributed Memory is a Continual Learner ](https://openreview.net/forum?id=JknGeelZJpHP)
 
-### Wednesday March 3: <br/>[The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation](https://www.sciencedirect.com/science/article/pii/S009286742031388X?via%3Dihub)
+### Wednesday May 3: <br/>[The Tolman-Eichenbaum Machine: Unifying Space and Relational Memory through Generalization in the Hippocampal Formation](https://www.sciencedirect.com/science/article/pii/S009286742031388X?via%3Dihub)
+
+### Wednesday May 10: <br/>[How to build a cognitive map](https://www.nature.com/articles/s41593-022-01153-y) 
