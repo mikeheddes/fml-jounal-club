@@ -68,3 +68,9 @@ We focus on fundamental research in order to be interesting for a diverse set of
 ### Wednesday June 7: <br/>[Disentanglement with Biological Constraints: A Theory of Functional Cell Types](https://openreview.net/forum?id=9Z_GfhZnGH)
 
 ### Wednesday June 14: <br/>[Toy Models of Superposition](https://transformer-circuits.pub/2022/toy_model/index.html)
+
+## Summer 2023
+
+### Wednesday July 12: <br/>[Training neural networks to encode symbols enables combinatorial generalization](https://royalsocietypublishing.org/doi/full/10.1098/rstb.2019.0309)
+
+### Wednesday July 19: <br/>[The role of Disentanglement in Generalisation](https://openreview.net/forum?id=qbH974jKUVy)
